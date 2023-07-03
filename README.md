@@ -2,7 +2,9 @@
 
 <hr>
 
-Projects overview
+<details>
+<summary>Projects overview</summary>
+<br>
 
 | Project Name | Description | URL | Comment |
 |--------------|-------------|-----|---------|
@@ -33,7 +35,7 @@ Projects overview
 | pygraph | Create simple and quick Directed Graphs from relational statements | [Link](https://github.com/iamaziz/pygraph) | |
 | algorithms-visualization-with-dash | Dash docset for algorithms-visualization repo | [Link](https://github.com/iamaziz/algorithms-visualization-with-dash) | |
 
-<hr>
+</details>
 
 <details>
 <summary> How was the list compiled?</summary>
@@ -51,8 +53,4 @@ Projects overview
 
 -->
 
-
-
 </details>
-
-
