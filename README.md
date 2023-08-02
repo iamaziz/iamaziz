@@ -40,12 +40,22 @@
 <details>
 <summary> How was the list compiled?</summary>
 
+<!--
 <img width="600" alt="image" src="https://github.com/iamaziz/iamaziz/assets/3298308/d0e46415-ea28-4856-95f2-18b98c362f4d"> 
+<img width="367" alt="image" src="https://github.com/iamaziz/iamaziz/assets/3298308/3544c5fe-e566-49c9-9491-8cd088d85f1f"> 
+<img width="368" alt="image" src="https://github.com/iamaziz/iamaziz/assets/3298308/36a639ac-67be-40d0-89aa-137789b53127">
+-->
+
+> 3 steps
+
+| No  |     |
+| --- | --- |
+| Step 1 | <img width="600" alt="image" src="https://github.com/iamaziz/iamaziz/assets/3298308/d0e46415-ea28-4856-95f2-18b98c362f4d"> |
+| Step 2 | <img width="367" alt="image" src="https://github.com/iamaziz/iamaziz/assets/3298308/3544c5fe-e566-49c9-9491-8cd088d85f1f"> |
+| Step 3 | <img width="368" alt="image" src="https://github.com/iamaziz/iamaziz/assets/3298308/36a639ac-67be-40d0-89aa-137789b53127"> |
 
 
 <!--
-<img width="367" alt="image" src="https://github.com/iamaziz/iamaziz/assets/3298308/3544c5fe-e566-49c9-9491-8cd088d85f1f"> 
-<img width="368" alt="image" src="https://github.com/iamaziz/iamaziz/assets/3298308/36a639ac-67be-40d0-89aa-137789b53127">
 <img width="579" alt="image" src="https://github.com/iamaziz/iamaziz/assets/3298308/92992236-1e23-4345-97f6-f9dbd0772e16">
 <img width="396" alt="image" src="https://github.com/iamaziz/iamaziz/assets/3298308/837f4ff5-ec0e-4131-9e42-523805bbd150">
 <img width="589" alt="image" src="https://github.com/iamaziz/iamaziz/assets/3298308/f85a9b9f-256a-408e-b58e-9beb0235a438">
