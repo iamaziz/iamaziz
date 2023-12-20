@@ -2,6 +2,8 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=iamaziz&count_private=true&show_icons=true)
 
+> <a href="https://stackoverflow.com/users/2839786/aziz-alto"><img src="https://stackexchange.com/users/flair/3383178.png" width="208" height="58" alt="profile for Aziz Alto on Stack Overflow, a network of free, community-driven Q&amp;A sites" title="profile for Aziz Alto on Stack Overflow, a network of free, community-driven Q&amp;A sites"></a>
+
 
 <details>
 <summary>Projects overview</summary>
@@ -63,7 +65,7 @@
 </details>
 -->
 
-### [gists](https://gist.github.com/iamaziz)
+> ### [Gists](https://gist.github.com/iamaziz)
 
 
 
